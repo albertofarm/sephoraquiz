@@ -1,0 +1,2324 @@
+Uri: https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Overpass:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.5.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dosis/v32/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7QV3A.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\dosis\v32\HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7QV3A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPPbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPPbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPTbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6fPTbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6VfTbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6VfTbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6zvPbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6zvPbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PLbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PLbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbPpqP.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbPpqP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADe6qIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADe6qIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADeqqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADeqqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLAxeqqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLAxeqqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdeqqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdeqqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDeqqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDeqqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDfaqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCDfaqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCqfaqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLCqfaqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDdfaqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDdfaqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDkfaqIncY.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\overpass\v13\qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLDkfaqIncY-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE0tCMPc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111VF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xVF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1pVF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF-1.ttf
+Content Type: font/ttf
+
+Uri: https://pay.seguro-finalizar.site/1VOvGVxvd8k3D62
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\1VOvGVxvd8k3D62
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/521rZJXkE62geaX
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\521rZJXkE62geaX
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/5pjw3R19Wjag2lQ
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\5pjw3R19Wjag2lQ
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/6YQPgjllMPAZpxz
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\6YQPgjllMPAZpxz
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/JqoR32znk5m3Vj5
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\JqoR32znk5m3Vj5
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/nWrxGWEB4V63654
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\nWrxGWEB4V63654
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/P5LNZ8Qol5zGaRy
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\P5LNZ8Qol5zGaRy
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/q510ZOY6VvmgE9D
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\q510ZOY6VvmgE9D
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/VroegNOVJvW3Kwj
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\VroegNOVJvW3Kwj
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/YEwR3AvJyejZdKy
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\YEwR3AvJyejZdKy
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/YL9jZDnz5vYgp4q
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\YL9jZDnz5vYgp4q
+Content Type: application/json
+
+Uri: https://pay.seguro-finalizar.site/zj6aGne1jDNZwlK
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\zj6aGne1jDNZwlK
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/carrinho/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\carrinho\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/categoria-produto/cabelos/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\cabelos\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/categoria-produto/cabelos/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\cabelos\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/categoria-produto/maquiagem/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\maquiagem\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/categoria-produto/maquiagem/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\maquiagem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/categoria-produto/ofertas/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\ofertas\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/categoria-produto/ofertas/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\ofertas\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/categoria-produto/perfumes/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\perfumes\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/categoria-produto/perfumes/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\perfumes\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/categoria-produto/skincare/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\skincare\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/categoria-produto/skincare/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\skincare\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/categoria-produto/so-na-sephora/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\so-na-sephora\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/categoria-produto/so-na-sephora/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\categoria-produto\so-na-sephora\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/comments/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/finalizar-compra/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\finalizar-compra\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/loja/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\loja\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/loja/?add-to-cart=1130
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\loja\index-1.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/loja/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\loja\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/acqua-di-parma/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\acqua-di-parma\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/acqua-di-parma/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\acqua-di-parma\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/bleu-de-chanel/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\bleu-de-chanel\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/bleu-de-chanel/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\bleu-de-chanel\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/carolina-herrera-212-vip/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\carolina-herrera-212-vip\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/carolina-herrera-212-vip/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\carolina-herrera-212-vip\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/carolina-herrera/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\carolina-herrera\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/carolina-herrera/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\carolina-herrera\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/cartier/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\cartier\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/cartier/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\cartier\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/dior/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\dior\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/dior/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\dior\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/giorgio-armani/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\giorgio-armani\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/giorgio-armani/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\giorgio-armani\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/prada/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\prada\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/prada/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\prada\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/rabanne/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\rabanne\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/rabanne/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\rabanne\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/tom-ford/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\tom-ford\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/tom-ford/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\tom-ford\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/versace/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\versace\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/versace/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\versace\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/produto/yves-saint-laurent/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\yves-saint-laurent\index.htm
+Content Type: text/html
+
+Uri: https://resgatesephora.shop/produto/yves-saint-laurent/feed/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\produto\yves-saint-laurent\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.6
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\add-search-to-menu\public\css\ivory-search.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.6
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\add-search-to-menu\public\js\ivory-search.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.27.0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\ajax-search-for-woocommerce\assets\css\style.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/ajax-search-for-woocommerce/assets/img/preloader.gif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\ajax-search-for-woocommerce\assets\img\preloader.gif
+Content Type: image/gif
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.20.3
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.3
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.3
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.20.3
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\css\frontend-lite.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\animations\animations.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.21.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/css/dynamic.css?ver=all
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\css\dynamic.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/css/fontello.min.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\css\fontello.min.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/css/jquery.fancybox.min.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/css/swiper-bundle.min.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/css/woo-gallery-slider-public.min.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\css\woo-gallery-slider-public.min.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/font/fontello.eot?86892453
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/font/fontello.svg?86892453
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/font/fontello.ttf?86892453
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\font\fontello.ttf
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/font/fontello.woff2?86892453
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\font\fontello.woff2
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/font/fontello.woff?86892453
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\font\fontello.woff
+Content Type: application/font-woff
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/images/spinner.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\images\spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/js/jquery.fancybox.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/js/swiper-bundle.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/gallery-slider-for-woocommerce/public/js/woo-gallery-slider-public.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\gallery-slider-for-woocommerce\public\js\woo-gallery-slider-public.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform-pro/public/assets/css/style.min.css?ver=3.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform-pro\public\assets\css\style.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-amex.png
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-amex.png
+Content Type: image/png
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-custom.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-custom.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-discover.png
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-discover.png
+Content Type: image/png
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-master.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-master.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform-pro/public/assets/img/credit-cards/card-visa.png
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform-pro\public\assets\img\credit-cards\card-visa.png
+Content Type: image/png
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform-pro/public/assets/js/repeater.js?ver=3.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform-pro\public\assets\js\repeater-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform\public\assets\css\text-editor-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform\public\assets\lib\cute-alert\cute-alert-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\metform\public\assets\lib\cute-alert\style-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/all-products.css?ver=wc-8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\all-products.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/blocks-checkout.js?ver=844131329a561df615f0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/blocks-components.js?ver=9277d2a3f5c4e876ed20
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\blocks-components.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/cart-frontend.js?ver=fe4c99da1e072bc084e2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/cart.css?ver=wc-8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\cart.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/checkout-frontend.js?ver=956a3bb1e165381d83f3
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/checkout.css?ver=wc-8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\checkout.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/packages-style.css?ver=wc-8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\packages-style.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/price-format.js?ver=eb7a7398126f71912b09
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\price-format.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=d4033068c24dafb13ccd
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-middleware.js?ver=ca04183222edaf8a26be
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-registry.js?ver=1c879273bd5c193cad0a
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-shared-context.js?ver=6eb6865831aa5a75475d
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-shared-hocs.js?ver=5e01ba7861e4c09bce65
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/client/blocks/wc-settings.js?ver=07c2f0675ddd247d2325
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\client\blocks\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/css/select2.css?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: application/font-woff
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: application/font-woff
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.8.8.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.6.12
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-grid.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min.css?ver=4.6.12
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-layout-grid.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min.css?ver=4.6.12
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-smallscreen-grid.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.6.12
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\themes\astra\assets\css\minified\main.min-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.6.12
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\themes\astra\assets\js\minified\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240417_faixa_footer_home_desk-1024x96.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240417_faixa_footer_home_desk-1024x96.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240417_faixa_footer_home_desk-300x28.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240417_faixa_footer_home_desk-300x28.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240417_faixa_footer_home_desk-600x56.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240417_faixa_footer_home_desk-600x56.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240417_faixa_footer_home_desk-64x6.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240417_faixa_footer_home_desk-64x6.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240417_faixa_footer_home_desk-768x72.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240417_faixa_footer_home_desk-768x72.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240417_faixa_footer_home_desk.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240417_faixa_footer_home_desk.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_meio_home_desk-1024x96.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_meio_home_desk-1024x96.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_meio_home_desk-300x28.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_meio_home_desk-300x28.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_meio_home_desk-600x56.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_meio_home_desk-600x56.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_meio_home_desk-64x6.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_meio_home_desk-64x6.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_meio_home_desk-768x72.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_meio_home_desk-768x72.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_meio_home_desk.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_meio_home_desk.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_topo_desk-1024x56.jpeg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_topo_desk-1024x56.jpeg
+Content Type: image/jpeg
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_topo_desk-300x16.jpeg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_topo_desk-300x16.jpeg
+Content Type: image/jpeg
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_topo_desk-600x33.jpeg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_topo_desk-600x33.jpeg
+Content Type: image/jpeg
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_topo_desk-768x42.jpeg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_topo_desk-768x42.jpeg
+Content Type: image/jpeg
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/20240419_faixa_topo_desk.jpeg
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\20240419_faixa_topo_desk.jpeg
+Content Type: image/jpeg
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3.-3348901250153_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3.-3348901250153_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3.-3348901250153_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3.-3348901250153_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.1_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.1_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.2_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.2_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.2_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.2_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.3_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.3_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3349668617166.3_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3349668617166.3_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-10_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-10_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-10_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-10_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-12_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-12_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-12_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-12_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-13_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-13_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-13_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-13_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-1_1500px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-1_1500px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-2_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-2_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-2_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-2_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-3_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-3_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-3_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-3_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-5_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-5_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-5_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-5_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-6_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-6_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-6_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-6_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-7_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-7_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-7_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-7_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-9_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-9_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3432240504319-9_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3432240504319-9_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-1_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-1_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-2_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-2_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-2_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-2_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-3_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-3_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141-3_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141-3_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141.4_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141.4_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141.4_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141.4_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141.5_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141.5_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273677141.5_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273677141.5_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734790.10_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734790.10_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734790.10_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734790.10_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734875.09_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734875.09_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734875.09_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734875.09_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-1-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-1-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-1.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-1.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.01_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.01_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.02_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.02_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.02_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.02_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.03_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.03_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.03_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.03_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.04_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.04_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.04_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.04_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.05_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.05_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.05_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.05_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.06_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.06_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.06_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.06_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.07_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.07_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.07_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.07_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.08_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.08_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.08_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.08_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.09_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.09_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.09_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.09_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.10_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.10_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.10_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.10_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.11_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.11_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.11_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.11_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.12_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.12_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.12_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.12_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.13_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.13_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.13_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.13_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.15_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.15_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273734882.15_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273734882.15_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.01_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.01_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.02_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.02_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.02_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.02_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.07_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.07_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273923859.07_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273923859.07_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.03_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.03_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.03_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.03_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.04_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.04_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.04_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.04_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.05_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.05_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.05_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.05_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.06_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.06_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.06_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.06_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.07_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.07_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/3614273924030.07_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\3614273924030.07_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/4.-3348901250153_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\4.-3348901250153_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/4.-3348901250153_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\4.-3348901250153_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/5.-3348901250153_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\5.-3348901250153_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/5.-3348901250153_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\5.-3348901250153_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/6.-3348901250153_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\6.-3348901250153_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/6.-3348901250153_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\6.-3348901250153_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/7.-3348901250153_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\7.-3348901250153_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/7.-3348901250153_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\7.-3348901250153_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8011003884841_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8011003884841_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.1_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.1_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.2_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.2_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.2_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.2_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.3_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.3_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.3_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.3_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.4_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.4_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8028713813641.4_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8028713813641.4_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_10_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_10_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_10_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_10_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_11_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_11_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_11_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_11_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_12_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_12_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_12_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_12_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_13_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_13_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_13_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_13_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_15_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_15_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_15_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_15_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_2_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_2_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_2_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_2_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_3_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_3_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_3_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_3_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_4_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_4_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_4_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_4_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_5_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_5_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_5_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_5_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_6_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_6_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_6_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_6_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_7_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_7_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_7_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_7_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_8_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_8_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_8_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_8_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_9_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_9_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083659_0065198197_9_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083659_0065198197_9_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_0_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_0_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_1_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_1_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061083673_0065198199_1_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061083673_0065198199_1_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.3_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.3_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.3_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.3_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.4_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.4_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.4_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.4_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.5_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.5_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.5_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.5_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.6_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.6_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/8411061777183.6_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\8411061777183.6_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_1_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_1_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_2_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_2_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/888066150491_2_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\888066150491_2_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9533808082974-150x150.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9533808082974-150x150.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9533808082974.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9533808082974.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046-100x100.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046-100x100.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046-1024x1024.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046-1024x1024.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046-150x150.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046-150x150.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046-300x300.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046-300x300.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046-600x600.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046-600x600.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046-64x64.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046-64x64.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046-768x768.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046-768x768.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/9539149398046.webp
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\9539149398046.webp
+Content Type: image/webp
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/banner-app-rodape-300x55.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\banner-app-rodape-300x55.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/banner-app-rodape-64x12.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\banner-app-rodape-64x12.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/banner-app-rodape.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\banner-app-rodape.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p1_60ml_3348901250153_1500px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p1_60ml_3348901250153_1500px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p2_todos_sauv_edt_1000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p2_todos_sauv_edt_1000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/p2_todos_sauv_edt_1000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\p2_todos_sauv_edt_1000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px-100x100.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px-100x100.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px-1024x1024.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px-1024x1024.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px-300x300.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px-300x300.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px-600x600.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px-600x600.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px-64x64.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px-64x64.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px-768x768.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px-768x768.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/packshot_30ml_2000px.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\packshot_30ml_2000px.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/SITE-1.png
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\SITE-1.png
+Content Type: image/png
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/viprose_30ml-150x150.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\viprose_30ml-150x150.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/2024/04/viprose_30ml.avif
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\2024\04\viprose_30ml.avif
+Content Type: application/octet-stream
+
+Uri: https://resgatesephora.shop/wp-content/uploads/elementor/css/global.css?ver=1713671182
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\elementor\css\global-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/uploads/elementor/css/post-104.css?ver=1713804851
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\elementor\css\post-104.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/uploads/elementor/css/post-20.css?ver=1713830358
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\elementor\css\post-20.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/uploads/elementor/css/post-307.css?ver=1713786828
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\elementor\css\post-307.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/uploads/elementor/css/post-329.css?ver=1713827604
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\elementor\css\post-329.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/uploads/elementor/css/post-9.css?ver=1713671181
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\elementor\css\post-9-1.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-content/uploads/elementor/thumbs/logo-qmyq7hf633xwx3pkl2d3ip1gkrjaovkdn94udjmxng.png
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\uploads\elementor\thumbs\logo-qmyq7hf633xwx3pkl2d3ip1gkrjaovkdn94udjmxng.png
+Content Type: image/png
+
+Uri: https://resgatesephora.shop/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://resgatesephora.shop/wp-includes/js/comment-reply.min.js?ver=6.5.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/api-fetch.min.js?ver=4c185334c5ec26e149cc
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/autop.min.js?ver=9fb50649848277dd318d
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/blob.min.js?ver=9113eed771d446f4a556
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=14d44daebf663d05d330
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/blocks.min.js?ver=6612d078dfaf28b875b8
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/compose.min.js?ver=1339d3318cd44440dccb
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/data-controls.min.js?ver=49f5587e8b90f9e7cc7e
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/data.min.js?ver=e6595ba1a7cd34429f66
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/deprecated.min.js?ver=e1f84915c5e8ae38964c
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/dom.min.js?ver=4ecffbffba91b10c5c7a
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/element.min.js?ver=cb762d190aebbec25b27
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\element.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\escape-html.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/html-entities.min.js?ver=2cd3358363e0675638fb
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/is-shallow-equal.min.js?ver=e0f9f1d78d83f5196979
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/keycodes.min.js?ver=034ff647a54b018581d3
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/notices.min.js?ver=673a68a7ac2f556ed50b
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/plugins.min.js?ver=2d369cbfdcb887111e06
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/primitives.min.js?ver=a41bfd5835f583ae838a
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/priority-queue.min.js?ver=9c21c957c7e50ffdbf48
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/private-apis.min.js?ver=5e7fdf55d04b8c2aadef
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\private-apis.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/redux-routine.min.js?ver=b14553dce2bee5c0f064
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/rich-text.min.js?ver=dd125966cf6cc0394ae0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/shortcode.min.js?ver=b7747eee0efafd2f0c3b
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/style-engine.min.js?ver=03f13c515060de24b556
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/url.min.js?ver=421139b01f33e5b327d8
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.21
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\vendor\react-dom.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\vendor\react.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\vendor\wp-polyfill-inert.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/warning.min.js?ver=ed7c8b0940914f4fe44b
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/dist/wordcount.min.js?ver=55d8c2bf3dc99e7ea5ec
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/javascript
+
+Uri: https://resgatesephora.shop/wp-json/
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fcarrinho%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fcarrinho%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Ffinalizar-compra%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Ffinalizar-compra%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Facqua-di-parma%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Facqua-di-parma%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fbleu-de-chanel%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fbleu-de-chanel%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fcarolina-herrera%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fcarolina-herrera%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fcarolina-herrera-212-vip%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fcarolina-herrera-212-vip%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fcartier%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fcartier%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fdior%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fdior%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fgiorgio-armani%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fgiorgio-armani%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fprada%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fprada%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Frabanne%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Frabanne%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Ftom-ford%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Ftom-ford%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fversace%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fversace%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fyves-saint-laurent%2F
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/oembed/1.0/embed?url=https:%2F%2Fresgatesephora.shop%2Fproduto%2Fyves-saint-laurent%2F&format=xml
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/pages/104
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\pages\104
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1014
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1014
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1034
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1034
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1048
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1048
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1063
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1063
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1064
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1064
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1094
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1094
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1096
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1096
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1102
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1102
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1108
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1108
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1122
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1122
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/1130
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\1130
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product/173
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product\173
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product_cat/19
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product_cat\19
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product_cat/20
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product_cat/21
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/wp-json/wp/v2/product_cat/23
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: https://resgatesephora.shop/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://shop.sorocabacortesefuros.com.br/wp-content/plugins/elementor-pro/assets/css/widget-loop-builder.min.css
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\css\widget-loop-builder.min.css
+Content Type: text/css
+
+Uri: https://shop.sorocabacortesefuros.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://shop.sorocabacortesefuros.com.br/wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\css\widget-share-buttons.min.css
+Content Type: text/css
+
+Uri: https://shop.sorocabacortesefuros.com.br/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce.min.css
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce.min.css
+Content Type: text/css
+
+Uri: https://shop.sorocabacortesefuros.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\New folder\resgatesephora.shop\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
